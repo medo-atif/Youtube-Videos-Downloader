@@ -6,8 +6,6 @@
 
 # YouTube Video Downloader
 
-**Project URL:** [Insert the URL to your project video here]
-
 ## Description
 
 The YouTube Video Downloader is a Python-based application designed to allow users to download YouTube videos in various resolutions and formats, including `144p`, `360p`, `720p`, `1080p`, and `mp3` audio. The downloader uses the `pytube` library for handling YouTube video streams and `Tkinter` for creating the graphical user interface (GUI).
